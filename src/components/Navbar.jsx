@@ -5,7 +5,10 @@ import { Link } from "react-router-dom";
 export function Navbar() {
   return (
     <nav className='flex items-center justify-between p-4 fixed top-0 left-0 w-full z-10 bg-white opacity-70'>
-      <Link to='/' className='flex flex-row items-center space-x-4 mx-auto'>
+      <Link
+        to='/savorydelight'
+        className='flex flex-row items-center space-x-4 mx-auto'
+      >
         {/* 'flex flex-row items-center space-x-4 mx-auto px-8' */}
         <h1 className='text-black sm:text-xl md:text-2xl font-sans font-semibold'>
           Savory Delight
