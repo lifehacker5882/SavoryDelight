@@ -1,4 +1,4 @@
-import contentImage from "../assets/images/chef.jpg";
+import contentImage from "./../assets/images/chef.jpg";
 
 export function ThirdSection() {
   return (

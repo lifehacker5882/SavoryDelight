@@ -1,4 +1,4 @@
-import contentimage from "../assets/images/table_restaurant.jpg";
+import contentimage from "./../assets/images/table_restaurant.jpg";
 
 export function SecondSection() {
   return (

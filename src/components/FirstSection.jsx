@@ -1,5 +1,5 @@
-import logo from "../assets/images/salad-vegetable-icon.webp";
-import backgroundimage from "../assets/images/background-v2.jpg";
+import logo from "./../assets/images/salad-vegetable-icon.webp";
+import backgroundimage from "./../assets/images/background-v2.jpg";
 
 export function FirstSection() {
   return (
